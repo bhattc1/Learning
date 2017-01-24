@@ -1,2 +1,2 @@
 # Learning
-All Learning Modules on LearnCPP.com
+This will be the branch for accessing Chapter 1 programs of LearnCPP.com
